@@ -1,0 +1,56 @@
+1. Глагол вместо существительного
+
+*году,	году,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	_
+году	годъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	32	obl	_	SpaceAfter=No
+
+Проблема может быть в неотделённой запятой 
+Ага, именно 
+К тому же TOROT в данном случае дал лучший вариант в графе Case
+
+году	годъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	appos	_	_
+
+
+Но работает не во всех случаях 
+
+*памяти	память	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+памяти	память	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+
+2. Существительное вместо прилагательного 
+*прошломъ	прошло	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	16	obl	_	_
+прошломъ	прошлый	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	5	amod	_	_
+
+*государева	государѣво	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	16	obj	_	_
+государева	государевъ	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	14	amod	_	SpaceAfter=No
+
+*инаа	иныи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	_
+инаа	иной	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Long	31	amod	_	_
+
+Проблема может крыться в исходной форме
+
+3. Не всегда выделяет именные сущности 
+*Тотьмы	Тотьмъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	10	nmod	_	_
+Тотьмы	Тотьма	PROPN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	_
+
+4.NOUN или VERB вместо DET
+*нашу	нашъ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	28	obl	_	_
+нашу	нашъ	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes	66	det	_	_
+
+*самимъ	сами	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+самимъ	самъ	DET	_	Case=Dat|Gender=Masc|Number=Plur	61	acl	_	SpaceAfter=No
+
+5. Глагол вместо наречия 
+*вверхъ	вверти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+вверхъ	вверхъ	ADV	_	Degree=Pos	12	advmod	_	_
+
+*вместа	вмѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	advcl	_	_
+вместа	вмѣсто	ADP	_	_	9	case	_	_
+Опять же исходная форма 
+
+
+6. Неправильно определяет субстантивированные прилагательные 
+*челобитной	челобитныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	_
+челобитной	челобитная	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	17	obl	_	_
+
+
+
+TOROT довольно хорошо определяет род, тогда как в размеченном тектсе род, кажется, опеределяется для леммы
