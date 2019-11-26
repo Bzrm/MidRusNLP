@@ -8,6 +8,7 @@ Middle Russian natural language processing
 * [UD project](https://universaldependencies.org)  
 * [UD github](https://github.com/)  
 * [Validation scripts](https://github.com/UniversalDependencies/tools/blob/master/README.txt)  
+  * cat \*.conllu | python validate.py --lang orv --max-err=0
 * [RNC Middle Russian in UD](https://github.com/UniversalDependencies/UD_Old_Russian-RNC/tree/dev) NB use dev branch   
 * [TOROT in UD](https://github.com/UniversalDependencies/UD_Old_Russian-TOROT/tree/dev) NB use dev branch  
 * [RNC online](http://ruscorpora.ru/new/search-mid_rus.html)  
