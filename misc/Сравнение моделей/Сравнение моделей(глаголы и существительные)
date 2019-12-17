@@ -1,0 +1,95 @@
+							СРАВНЕНИЕ МОДЕЛЕЙ
+					Модель Оли					Модель Егора
+	Глаголы
+	
+VERB FORM
+	NONE			0.36(0.62 FIN)				0.29(0.69 FIN)
+	PART			0.57(0.28 FIN)				0.49(0.33 FIN)
+	FIN				0.65(0.18 PART RES)			0.68(0.18 PART RES)	
+	PART RES		0.99						0.89
+	INF				0.98						0.98
+	CONV			0.81						0.80 (0.1 PART RES)
+	
+	
+TENSE
+	NONE			0.94						0.93
+	IMP				0.57(0.39 PRES)				0.72(0.17 NONE)
+	PRES			0.82(0.11 PAST)				0.83(0.11 PAST)
+	FUT				0.66(0.3 PRES)				0.67(0.23 PRES)
+	AOR				0.19(0.45 PAST 0.25 NONE)	0.36(0.29 PAST 0.23 NONE)
+	PAST			0.89						0.81(0.18 PRES)
+	
+	
+VOICE
+	NONE			0.36(0.64 ACT)				0.29(0.71 ACT)
+	MID				1							1
+	ACT				0.98						0.98
+	PASS			0.95						0.59(0.41 ACT)
+	
+	
+MOOD
+	NONE			0.95						0.89
+	IND				0.61(0.35 NONE)				0.65(0.31 NONE)
+	IMP				0.57(0.38  NONE)			0.54(0.35 NONE)
+	
+	
+GENDER
+	NONE			0.92						0.93					
+	NEUT			0.90						0.86
+	FEM				0.82(0.15 NONE)				0.83
+	MASC			0.71(0.23 NONE)				0.63(0.35 NONE)
+	
+	
+PERSON
+	NONE			0.95						0.89(0.08 3)					
+	1				0.88(0.11 NONE)				0.86(0.13 NONE)
+	2				0.51(0.46 NONE)				0.55(0.41 NONE)
+	3				0.58(0.35 NONE)				0.65(0.32 NONE)
+	
+	
+NUMBER
+	NONE			0.96						0.94	
+	SING			0.79(0.14 NONE)				0.77(0.1 PLUR 0.13 NONE)
+	DUAL			0(0.80 SING)				0(0.67 SING)
+	PLUR			0.64(0.29 SING)				0.72(0.21 SING)
+	
+	
+	
+	
+	Существительные
+	
+CASE
+	NONE			0.92(0.08 NOM)				0.91(0.09 GEN)
+	DAT				0.71(0.15 GEN)				0.77(0.11 INS)
+	NOML			0.5(0.5 GEN)				0(0.67 GEN 0.33 NOM)
+	NOM				0.76(0.14 GEN)				0.81(0.09 ACC)
+	GEN				0.89						0.84(0.08 NOM)
+	ACC				0.57(0.2 GEN 0.15 NOM)		0.62(0.19 NOM 0.1 GEN)
+	VOC				0.89						0.65(0.15 NOM 0.14 DAT)			
+	LOC				0.61(0.25 GEN)				0.7(0.1 GEN)
+	INS				0.70(0.23 GEN)				0.82(0.11 DAT)
+
+
+GENDER
+	NONE			0.92(0.08 FEM)				0.91(0.09 MASC
+	NEUT			0.49(0.26 MASC 0.25 FEM)	0.59(0.27 MASC 0.14 FEM)
+	MASC			0.78(0.21 FEM)				0.89(0.08 FEM)
+	FEM				0.9(0.08 MASC)				0.88(0.1 MASC)	
+
+
+NUMBER
+	NONE			0.92(0.08 SING)				0.91(0.09 PLUR)				
+	ADNUM			0.41(0.33 SING 0.24 PLUR)	0.45(0.3 PLUR 0.24 SING)
+	SING			0.89(0.11 PLUR)				0.94(0.06 PLUR)
+	DUAL			0.29(0.68 SING)				0.07(0.92 SING)
+	PLUR			0.83(0.17 SING)				0.76(23 SING)
+
+
+ANIMACY
+	NONE			1							1						
+	ANIM			0.26						0.27
+
+
+ABBR
+	NONE			1							1							
+	YES				0.92						0.91
