@@ -23,5 +23,13 @@ Middle Russian natural language processing
 ### NLP tools  
 * [UDpipe]()   
 
+### Leterature  
+* Berdichevskis et al. 2016 [http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf](http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf)
+* Scherrer et al. 2018 [https://researchportal.helsinki.fi/en/publications/new-developments-in-tagging-pre-modern-orthodox-slavic-texts](https://researchportal.helsinki.fi/en/publications/new-developments-in-tagging-pre-modern-orthodox-slavic-texts)
 
-
+About Middle Russian Corpus 
+* Moldovan 2015
+* Sichinava 2014
+* Lyashevskaya et al. 2018 
+* Lyashevskaya 2019 [http://www.dialog-21.ru/media/4614/lyashevskayaon-163.pdf](http://www.dialog-21.ru/media/4614/lyashevskayaon-163.pdf)  
+* more on Russian historical corpora: [http://ru-eval.ru/hist/research.html](http://ru-eval.ru/hist/research.html)
