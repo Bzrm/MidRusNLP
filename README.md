@@ -22,6 +22,8 @@ Middle Russian natural language processing
 
 ### NLP tools  
 * [UDpipe]()   
+  * UDpipe API `curl -F data=@temp.conllu -F model=russian-gsd-ud-2.5-191206 -F tagger= -F parser= http://lindat.mff.cuni.cz/services/udpipe/api/process | PYTHONIOENCODING=utf-8 python -c "import sys,json; sys.stdout.write(json.load(sys.stdin)['result'])" > temp.conllu` see [more](http://lindat.mff.cuni.cz/services/udpipe/api-reference.php)  
+  * training UDpipe: Apertium [tutorial](http://wiki.apertium.org/wiki/UDPipe)
 
 ### Leterature  
 * Berdichevskis et al. 2016 [http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf](http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf)
