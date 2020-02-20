@@ -23,7 +23,8 @@ Middle Russian natural language processing
 ### NLP tools  
 * [UDpipe]()   
   * UDpipe API `curl -F data=@temp.conllu -F model=russian-gsd-ud-2.5-191206 -F tagger= -F parser= http://lindat.mff.cuni.cz/services/udpipe/api/process | PYTHONIOENCODING=utf-8 python -c "import sys,json; sys.stdout.write(json.load(sys.stdin)['result'])" > temp.conllu` see [more](http://lindat.mff.cuni.cz/services/udpipe/api-reference.php)  
-  * training UDpipe: Apertium [tutorial](http://wiki.apertium.org/wiki/UDPipe)
+  * training UDpipe: Apertium [tutorial](http://wiki.apertium.org/wiki/UDPipe)  
+  * UDpipe models: [list](http://lindat.mff.cuni.cz/services/udpipe/api/models)
 
 ### Leterature  
 * Berdichevskis et al. 2016 [http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf](http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf)
@@ -34,4 +35,8 @@ About Middle Russian Corpus
 * Sichinava 2014
 * Lyashevskaya et al. 2018 
 * Lyashevskaya 2019 [http://www.dialog-21.ru/media/4614/lyashevskayaon-163.pdf](http://www.dialog-21.ru/media/4614/lyashevskayaon-163.pdf)  
-* more on Russian historical corpora: [http://ru-eval.ru/hist/research.html](http://ru-eval.ru/hist/research.html)
+* more on Russian historical corpora: [http://ru-eval.ru/hist/research.html](http://ru-eval.ru/hist/research.html)  
+
+NLP papers
+* Milan Straka, Jana Straková (2019), UFAL MRPipe at MRP 2019: UDPipe Goes Semantic in the Meaning Representation Parsing Shared Task [pdf](https://arxiv.org/pdf/1910.11295.pdf)  
+* Milan Straka, Jana Straková, Jan Hajič (2019), Evaluating Contextualized Embeddings on 54 Languages in POS Tagging, Lemmatization and Dependency Parsing [pdf](https://arxiv.org/pdf/1908.07448.pdf)  
