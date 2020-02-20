@@ -26,7 +26,7 @@ Middle Russian natural language processing
   * training UDpipe: Apertium [tutorial](http://wiki.apertium.org/wiki/UDPipe)  
   * UDpipe models: [list](http://lindat.mff.cuni.cz/services/udpipe/api/models)
 
-### Leterature  
+### References  
 * Berdichevskis et al. 2016 [http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf](http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf)
 * Scherrer et al. 2018 [https://researchportal.helsinki.fi/en/publications/new-developments-in-tagging-pre-modern-orthodox-slavic-texts](https://researchportal.helsinki.fi/en/publications/new-developments-in-tagging-pre-modern-orthodox-slavic-texts)
 
