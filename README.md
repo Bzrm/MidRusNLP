@@ -24,7 +24,11 @@ Middle Russian natural language processing
 * [UDpipe]()   
   * UDpipe API `curl -F data=@temp.conllu -F model=russian-gsd-ud-2.5-191206 -F tagger= -F parser= http://lindat.mff.cuni.cz/services/udpipe/api/process | PYTHONIOENCODING=utf-8 python -c "import sys,json; sys.stdout.write(json.load(sys.stdin)['result'])" > temp.conllu` see [more](http://lindat.mff.cuni.cz/services/udpipe/api-reference.php)  
   * training UDpipe: Apertium [tutorial](http://wiki.apertium.org/wiki/UDPipe)  
-  * UDpipe models: [list](http://lindat.mff.cuni.cz/services/udpipe/api/models)
+  * UDpipe models: [list](http://lindat.mff.cuni.cz/services/udpipe/api/models)  
+  
+### Dictionaries and word lists  
+* A Frequency dictionary of the Middle Russian Corpus [15-17th cc.](http://ru-eval.ru/hist/freq-15-17/)  
+* Dictionary of the Russian Language of the 11th - 17th cc. [link](http://ru-eval.ru/hist/xi-xvii/06e.html)  
 
 ### References  
 About Middle Russian and Middle Russian Corpus 
