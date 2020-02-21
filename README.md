@@ -27,11 +27,17 @@ Middle Russian natural language processing
   * UDpipe models: [list](http://lindat.mff.cuni.cz/services/udpipe/api/models)
 
 ### References  
-About the Middle Russian Corpus 
-* Moldovan 2015
-* Sichinava 2014: Сичинава Д.В. Исторические корпуса Национального корпуса русского языка как инструмент диахронических исследований грамматики / Д.В.Сичинава // Писменото наследство и информационните технологии. El'Manuscript–2014. Материали от V международна научной конференции / В.А.Баранов, В. Желязкова, А.М.Лаврентьев, отв. ред. – София, Ижевск, 2014.
-* Lyashevskaya 2018 [gold data](https://libweb.kpfu.ru/publication/papers/kls/2018-1/KLS-2018-1-131-135.pdf)
+About Middle Russian and Middle Russian Corpus 
+* Молдован А. М. 2015. Памятники древнерусской письменности в Национальном корпусе русского языка // Труды Института русского языка им. В. В. Виноградова РАН. Вып. 6. 2015. С. 88-98.  
+* Сичинава Д.В. 2014. Исторические корпуса Национального корпуса русского языка как инструмент диахронических исследований грамматики / Д.В.Сичинава // Писменото наследство и информационните технологии. El'Manuscript–2014. Материали от V международна научной конференции / В.А.Баранов, В. Желязкова, А.М.Лаврентьев, отв. ред. – София, Ижевск, 2014.
+* Ляшевская 2018 on [gold dataset](https://libweb.kpfu.ru/publication/papers/kls/2018-1/KLS-2018-1-131-135.pdf)
 * Lyashevskaya 2019 [http://www.dialog-21.ru/media/4614/lyashevskayaon-163.pdf](http://www.dialog-21.ru/media/4614/lyashevskayaon-163.pdf)  
+* Пенькова Я. 2019. _Иму_, _учьну_, _стану_, _буду_: Корпусное исследование перифраз будущего времени в среднерусской письменности // Slavistična revija, 67 (4), str. 569–586. [link](https://srl.si/ojs/srl/article/view/2019-4-1-3)  
+* Историческая грамматика древнерусского языка /В. Б Крысько, ред. Т. 1—4. М.: Азбуковник, 2000—2006.  
+* Аванесов Р. И., Иванов B. В. (ред.) 1982. Историческая грамматика русского языка: морфология; глагол. М.: Наука.  
+* Живов В. М. 2004. Очерки исторической морфологии русского языка XVII—XVIII веков. М.  
+* Демьянов В. Г. 2000. Вести-Куранты: 1. Издание для исследования. 2. Исследование для издания // Лингвистическое источниковедение и история русского языка. М.  
+* Добрушина Е. Р., Кравецкий А. Г., Поляков А. Е. Корпус и частотный грамматический корпусный словарь церковнославянского языка в составе НКРЯ // Труды Института русского языка им. В. В. Виноградова. Вып. 6. 2015. С. 116-141.  
 * more on Russian historical corpora: [http://ru-eval.ru/hist/research.html](http://ru-eval.ru/hist/research.html)  
 
 NLP papers
@@ -45,4 +51,6 @@ NLP papers
 * Гаврилова Т.С., Шалганова Т.А., Ляшевская, О.Н. 2017. _Взiaлъ_, _възялъ_, _вьзял_: обработка орфографической вариативности при лексико-грамматической аннотации старорусского корпуса XV-XVII вв. Вестник Православного Свято-Тихоновского гуманитарного университета. Серия 3: Филология, (51). [pdf](http://periodical.pstgu.ru/pdf/files/article/ru/1498120157.1_Gavrilova_i_dr_11-20.pdf)  
 * Meyer R. New wine in old wineskins? Tagging Old Russian via annotation projection from modern translations / R.Meyer // Russian linguistics, 2011. – Т. 35. – No 2. – P.267–281. [pdf](https://www.researchgate.net/publication/261977705_New_wine_in_old_wineskins-Tagging_Old_Russian_via_annotation_projection_from_modern_translations_Molodoe_vino_v_mehi_vethie-Razmetka_drevnerusskih_tekstov_posredstvom_proekcii_annotacii_iz_sovremennyh)   
 * Segalovich I. A Fast Morphological Algorithm with Unknown Word Guessing Induced by a Dictionary for a Web Search Engine / I.Segalovich // Proceedings of MLMTA, Las Vegas, Nevada, 2003. – P. 273–280. [pdf](https://www.semanticscholar.org/paper/A-Fast-Morphological-Algorithm-with-Unknown-Word-by-Segalovich/983b7014df3b7d4e82e32ba4f45f71f3879f8c96)  
+* Сокирко А. В. Быстрословарь: предсказание морфологии русских слов с использованием больших лингвистических ресурсов // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Вып. 9 (16). М.: Изд-во РГГУ, 2010. С. 450-456.  
+* Поляков А. Е., Савчук С. О., Сичинава Д. В. Грамматический словарь для автоматического анализа текстов XVIII-XIX веков: первые результаты // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Вып. 12 (19). М.: Изд-во РГГУ, 2013. С. 633-654.  
 * Zeman D. CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies / D.Zeman, J.Hajič, M.Popel, M.Potthast, M.Straka, F.Ginter, J.Nivre, S.Petrov // Proceedings of the CoNLL 2018 Shared Task.– Brussels, 2018. – P. 1–21.
