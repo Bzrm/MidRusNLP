@@ -26,6 +26,8 @@ Middle Russian natural language processing
   * training UDpipe: Apertium [tutorial](http://wiki.apertium.org/wiki/UDPipe)  
   * UDpipe models: [list](http://lindat.mff.cuni.cz/services/udpipe/api/models)  
   
+* [](https://github.com/DanAnastasyev/GramEval2020)
+  
 ### Dictionaries and word lists  
 * A Frequency dictionary of the Middle Russian Corpus [15-17th cc.](http://ru-eval.ru/hist/freq-15-17/)  
 * Dictionary of the Russian Language of the 11th - 17th cc. [link](http://ru-eval.ru/hist/xi-xvii/06e.html)  
